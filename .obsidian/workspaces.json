@@ -1,0 +1,159 @@
+{
+  "workspaces": {
+    "standard": {
+      "main": {
+        "id": "67fb5aadb2188b97",
+        "type": "split",
+        "children": [
+          {
+            "id": "ace253139eb8cc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRC/software de redes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2a75cd395198ff75",
+        "type": "split",
+        "children": [
+          {
+            "id": "3841534f91a0ca1a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e5a146200dcb2d6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6422d0cba346e644",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "97f3e1558047c603",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "2458e7f6a1688a7d",
+        "type": "split",
+        "children": [
+          {
+            "id": "f4e4c82ca90fc754",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a78328678c3f476c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "FRC/software de redes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "24b9712c1ed4912d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "FRC/software de redes.md"
+                  }
+                }
+              },
+              {
+                "id": "650a9076e9ba3be8",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "FRC/software de redes.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1f23e29449deda70",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "3878742549d338df",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "73bbe94011a0c3fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a0396bcdd607aa25",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "ace253139eb8cc13"
+    }
+  },
+  "active": "standard"
+}
